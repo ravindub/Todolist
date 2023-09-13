@@ -4,7 +4,7 @@
 
 # Simple To-Do List Web Application
 
-A minimalist and intuitive to-do list application designed with Express.js, EJS, and MongoDB. Efficiently organize and store your tasks with real-time database support.
+A minimalist and intuitive to-do list application developed with Express.js, EJS, and MongoDB. Efficiently organize and store your tasks with real-time database support.
 
 ## Features:
 
